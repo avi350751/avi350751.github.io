@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: Coffee & Python
-image: "/img/posts/coffee_python.jpg"
-tags: [Python, Coffee]
+image: "img/posts/coffee_python.jpg"
+tags: [Python,Coffee]
 ---
 
 # My first project
